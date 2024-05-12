@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Remind_Me</string>
+    <string name="title">Title</string>
+    <string name="enter_the_description">Enter the Description</string>
+    <string name="add_note">Add Note</string>
+    <string name="description">Description :</string>
+    <string name="ttitle">Title :</string>
+    <string name="notes">Notes</string>
+    <string name="e_notes">Notes</string>
+</resources>
